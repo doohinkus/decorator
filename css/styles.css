@@ -1,15 +1,16 @@
-.sidebar{
- float:right;
- background-color: purple;
- color:white;
- padding:1em;
+
+.column{
+float:left;
+width:33%;
 }
-.content{
-  clear:left;
-  width:500px;
+p{
   padding:1em;
 }
-.left{
-float:left;
-padding:1em;
+/*WIDTH USE WIDTH WITH THE FLOAT ITEM*/
+img{
+  float: left;
+  padding: 1em;
+}
+h3{
+  text-align: center;
 }
