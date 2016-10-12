@@ -3,6 +3,18 @@
 float:left;
 width:33%;
 }
+
+.before{
+  background-color: lightblue;
+}
+
+.during{
+background-color: hotpink
+}
+.after{
+background-color: lightyellow;
+}
+
 p{
   padding:1em;
 }
